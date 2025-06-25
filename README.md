@@ -18,7 +18,7 @@ Welcome to **MurshiQuiz**, a fun and engaging online quiz platform designed to c
 
 ## 🚀 Live Demo
 
-> [🔗 Click here to play MurshiQuiz online]([https://your-live-link.com](https://v0-online-quiz-system-git-main-umars-projects-acbcaf9f.vercel.app/))
+[https://your-live-link.com](https://v0-online-quiz-system-git-main-umars-projects-acbcaf9f.vercel.app/)
 
 
 ---
